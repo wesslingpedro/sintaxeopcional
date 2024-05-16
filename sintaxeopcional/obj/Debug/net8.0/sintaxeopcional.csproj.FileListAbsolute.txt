@@ -1,0 +1,14 @@
+D:\CURSO C# UDEMY\EntradaDeDados\sintaxeopcional\sintaxeopcional\bin\Debug\net8.0\sintaxeopcional.exe
+D:\CURSO C# UDEMY\EntradaDeDados\sintaxeopcional\sintaxeopcional\bin\Debug\net8.0\sintaxeopcional.deps.json
+D:\CURSO C# UDEMY\EntradaDeDados\sintaxeopcional\sintaxeopcional\bin\Debug\net8.0\sintaxeopcional.runtimeconfig.json
+D:\CURSO C# UDEMY\EntradaDeDados\sintaxeopcional\sintaxeopcional\bin\Debug\net8.0\sintaxeopcional.dll
+D:\CURSO C# UDEMY\EntradaDeDados\sintaxeopcional\sintaxeopcional\bin\Debug\net8.0\sintaxeopcional.pdb
+D:\CURSO C# UDEMY\EntradaDeDados\sintaxeopcional\sintaxeopcional\obj\Debug\net8.0\sintaxeopcional.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO C# UDEMY\EntradaDeDados\sintaxeopcional\sintaxeopcional\obj\Debug\net8.0\sintaxeopcional.AssemblyInfoInputs.cache
+D:\CURSO C# UDEMY\EntradaDeDados\sintaxeopcional\sintaxeopcional\obj\Debug\net8.0\sintaxeopcional.AssemblyInfo.cs
+D:\CURSO C# UDEMY\EntradaDeDados\sintaxeopcional\sintaxeopcional\obj\Debug\net8.0\sintaxeopcional.csproj.CoreCompileInputs.cache
+D:\CURSO C# UDEMY\EntradaDeDados\sintaxeopcional\sintaxeopcional\obj\Debug\net8.0\sintaxeopcional.dll
+D:\CURSO C# UDEMY\EntradaDeDados\sintaxeopcional\sintaxeopcional\obj\Debug\net8.0\refint\sintaxeopcional.dll
+D:\CURSO C# UDEMY\EntradaDeDados\sintaxeopcional\sintaxeopcional\obj\Debug\net8.0\sintaxeopcional.pdb
+D:\CURSO C# UDEMY\EntradaDeDados\sintaxeopcional\sintaxeopcional\obj\Debug\net8.0\sintaxeopcional.genruntimeconfig.cache
+D:\CURSO C# UDEMY\EntradaDeDados\sintaxeopcional\sintaxeopcional\obj\Debug\net8.0\ref\sintaxeopcional.dll
